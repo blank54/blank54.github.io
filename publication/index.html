@@ -10,7 +10,6 @@ permalink: /publication/
       <div class="col-md-12">
         <div class="block">
           <h1>Publications</h1>
-          <p>The latest works by IPM LAB members</p>
         </div>
       </div>
     </div>
@@ -18,5 +17,7 @@ permalink: /publication/
 </section>
 
 {% for post in site.categories.publication %}
+<div class="post-area">
   <p>{{ post }}</p>
+</div>
 {% endfor %}
