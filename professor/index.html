@@ -1,0 +1,36 @@
+---
+layout: page
+title: Professor
+permalink: /professor/
+---
+
+    <!-- Slider Start -->
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>Professor</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Portfolio Start -->
+<section id="professor">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="block">
+            </div>
+          </div>
+        </div>
+    </div>
+</section>
+
+{% for post in site.categories.professor %}
+<div class="post-area">
+  <p>{{ post }}</p>
+</div>
+{% endfor %}

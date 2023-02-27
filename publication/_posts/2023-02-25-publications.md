@@ -4,11 +4,12 @@ title: Publications
 # categories: [publication]
 # subtitle: Jekyll is a blog-aware, static site generator in Ruby https://jekyllrb.com
 # date: 2016-05-20 21:11:27
-data: 2023-02-25
+date: 2023-02-27
 author: Seonghyeon Moon
 ---
 
 ## Journal Articles \| 논문
+<br/>
 
 ### Refereed Journal Articles (International) \| 국제학술지 논문
 
@@ -40,7 +41,7 @@ author: Seonghyeon Moon
 ---
 
 ## Conference Proceedings \| 국내외 학술대회 발표
-
+<br/>
 19. Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _International Conference on Industrial Engineering and Engineering Management (IEEM)_, Kuala Lumpur, Malaysia.  
 18. Hwang, J., Lee, G., **Moon, S.**, and Chi, S. (2022). "Real-time Estimation of Construction Site Particulate Matters Using Wind-applied Spatial Interpolation." 22nd International Conference on Construction Applications of Virtual Reality (CONVR), Seoul, South Korea.  
 17. Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_, Aarhus, Denmark.  
@@ -67,10 +68,12 @@ author: Seonghyeon Moon
 ---
 
 ## Intellectual Property Rights \| 지식재산권
+<br/>
 
 ### Patent (Registered) \| 특허 등록
 
 1. Choi, H, Chi, S., and **Moon, S.** (2021. 10. 14.) "Construction Process Navigation Providing Method." (Korea, Publication No. 10-2315373)  
+<br/>
 
 ### Patent (Under Review) \| 특허 출원
 
@@ -78,6 +81,7 @@ author: Seonghyeon Moon
 3. Chi, S., Chung, S., and **Moon, S.** (2022. 4. 6.) "Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning." (Korea, Application Number: 10-2022-0042645)  
 2. Chi, S., **Moon, S.**, and Lee, G. (2021. 7. 28.) "Techniques for Keyword Extraction on Construction Contract Document using Deep Learning-based Named Entity Recognition." (Korea, Application Number: 10-2021-0099244)  
 1. Chi, S., Lee, G., and **Moon, S.** (2021. 7. 21.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Application Number: 10-2021-0095986)  
+<br/>
 
 ### Software \| 소프트웨어 등록
 
