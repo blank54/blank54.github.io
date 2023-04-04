@@ -10,7 +10,7 @@ author: Seonghyeon Moon
 <img src="{{ site.baseurl }}/img/people/SeonghyeonMoon.jpg" style="width:300px" alt="">
 
 >Assistant Professor(조교수) \| Ph.D.  
->School of Industrial and Systems Engineering \| Gyeongsang National University  
+>Department of Industrial and Systems Engineering \| Gyeongsang National University  
 >경상국립대학교 산업시스템공학부  
 >
 >**Phone**: 055-772-1706 \| **Email**: moonsh@gnu.ac.kr  
@@ -37,7 +37,7 @@ author: Seonghyeon Moon
 
 ### Professional Experience \| 경력
 
->03/2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Assistant Professor(조교수)**, 경상국립대학교 산업시스템공학부, School of Industrial and Systems Engineering, Gyeongsang National University, Jinju, Gyeongsangnam-do, South Korea
+>03/2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Assistant Professor(조교수)**, 경상국립대학교 산업시스템공학부, Department of Industrial and Systems Engineering, Gyeongsang National University, Jinju, Gyeongsangnam-do, South Korea
 >
 >09/2020 - 02/2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Postdoctoral Research Fellow(박사후연구원)**, 서울대학교 건설혁신연구실, Construction !nnovation Laboratory, Seoul National University, Seoul, South Korea
 >
