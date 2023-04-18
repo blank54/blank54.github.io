@@ -5,7 +5,7 @@ data: 2023-02-27
 author: Seonghyeon Moon
 ---
 
-# 문성현 (Seonghyeon Moon), Ph.D.
+# 문성현 (Seonghyeon Moon)
 
 <img src="{{ site.baseurl }}/img/people/SeonghyeonMoon.jpg" style="width:300px" alt="">
 
@@ -15,6 +15,7 @@ author: Seonghyeon Moon
 >
 >**Phone**: 055-772-1706 \| **Email**: moonsh@gnu.ac.kr  
 >**Homepage**: ipm.gnu.ac.kr \| **Github**: github.com/blank54  
+>**KRI(국가연구자번호)**: 1298-0338  
 
 <br/>
 
