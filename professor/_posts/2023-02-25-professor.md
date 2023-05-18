@@ -15,7 +15,7 @@ author: Seonghyeon Moon
 >
 >**Phone**: 055-772-1706 \| **Email**: moonsh@gnu.ac.kr  
 >**Homepage**: ipm.gnu.ac.kr \| **Github**: github.com/blank54  
->**KRI(국가연구자번호)**: 1298-0338  
+>**KRI(국가연구자번호)**: 1298-0388  
 
 <br/>
 

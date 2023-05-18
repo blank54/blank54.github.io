@@ -13,6 +13,10 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (International) \| 국제학술지 논문
 
+>13. [_Under Review_] Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Systematic Review on Natural Language Processing Applications in Construction Compared to the State-of-the-Art." _Automation in Construction_. [_Submitted on 2023.04.26._, Q1, SCI-E, 2021 IF 10.517]
+>
+>12. [_Under Review_] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_ [_Submitted on 2022.12.19._, Q1, SCI-E, 2021 IF 7.862]
+>
 >11. Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_, 39(2), 04022079. DOI: 10.1061/JMENEA.MEENG-5089 [Q1, SCI-E, 2021 IF 6.415]  
 >
 >10. **Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Cotractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2021 IF 10.517]  
