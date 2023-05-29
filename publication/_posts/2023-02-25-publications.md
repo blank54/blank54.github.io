@@ -60,6 +60,8 @@ author: Seonghyeon Moon
 
 ## Conference Proceedings \| 국내외 학술대회 발표
 
+>21. Park, Y. and **Moon, S.** (2023). "Anomaly Detection Model using Noise Data Analysis: Performance Comparison of 1D-CNN+GRU and SFTF+EFFNET Techniques." _Korea Computer Congress 2023_, Jeju, South Korea.  
+>
 >20. **Moon, S.** and Kim, J. (2023). "Deep Learning-based Automated Sentence Segmentation for Digitization of Offline Document from Industrial Jobsites." _2023 Spring Conference of Korean Institute of Industrial Engineers_, Jeju, South Korea.  
 >
 >19. Kim, J., Chung, S., **Moon, S.**, and Chi, S. (2022). "Feasibility Study of a BERT-based Question Answering Chatbot for Information Retrieval from Construction Specifications." _International Conference on Industrial Engineering and Engineering Management (IEEM)_, Kuala Lumpur, Malaysia.  
