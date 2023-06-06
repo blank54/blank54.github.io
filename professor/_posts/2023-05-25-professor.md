@@ -71,6 +71,9 @@ author: Seonghyeon Moon
 
 ### Professional Presentations and Workshops \| 전문 발표
 
+<!-- >2023&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Digital Twin Platform for Smart Construction and Automation**  
+>KICS Summer Conference 2023, Korean Institute of Communications and Information Sciences, Jeju, South Korea. (2023. 6. 23.)
+> -->
 >2022&nbsp;&nbsp;&nbsp;&nbsp;**Research Trends in Construction Management**  
 >Republic of Korea Army, Daejeon, South Korea. (2022. 9. 26.)
 >
