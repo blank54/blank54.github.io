@@ -99,11 +99,14 @@ author: Seonghyeon Moon
 ### Professional Membership Roles \| 전문 활동
 
 >**Academic Society \| 학회 활동**  
->2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Institute of Information Scientists and Engineers (한국정보과학회)  
->2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Institute of Industrial Engineers (대한산업공학회)  
->2021 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Automation and Robotics in Construction (한국건설자동화로보틱스학회)  
->2016 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korea Institute of Construction Engineering and Management (한국건설관리학회)  
->2015 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member**, Korean Society of Civil Engineers (대한토목학회)  
+>2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Information Scientists and Engineers (한국정보과학회)  
+>2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Industrial Engineers (대한산업공학회)  
+>2021 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Society of Automation and Robotics in Construction (한국건설자동화로보틱스학회)  
+>2016 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(종신회원)**, Korea Institute of Construction Engineering and Management (한국건설관리학회)  
+>2015 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(종신회원)**, Korean Society of Civil Engineers (대한토목학회)  
+
+>**Conference Activities \| 학술대회 운영위원**  
+>Session Chair(좌장), 2023 Spring Conference of Korean Institute of Industrial Engineers(대한산업공학회 춘계공동학술대회)  
 
 >**Journal Review \| 논문 심사**  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)  
