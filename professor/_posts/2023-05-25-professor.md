@@ -71,9 +71,9 @@ author: Seonghyeon Moon
 
 ### Professional Presentations and Workshops \| 전문 발표
 
-<!-- >2023&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Digital Twin Platform for Smart Construction and Automation**  
+>2023&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Digital Twin Platform for Smart Construction and Automation**  
 >KICS Summer Conference 2023, Korean Institute of Communications and Information Sciences, Jeju, South Korea. (2023. 6. 23.)
-> -->
+>
 >2022&nbsp;&nbsp;&nbsp;&nbsp;**Research Trends in Construction Management**  
 >Republic of Korea Army, Daejeon, South Korea. (2022. 9. 26.)
 >
@@ -99,6 +99,7 @@ author: Seonghyeon Moon
 ### Professional Membership Roles \| 전문 활동
 
 >**Academic Society \| 학회 활동**  
+>2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Communications and Information Sciences (한국통신학회)  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Information Scientists and Engineers (한국정보과학회)  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Industrial Engineers (대한산업공학회)  
 >2021 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Society of Automation and Robotics in Construction (한국건설자동화로보틱스학회)  
@@ -120,12 +121,20 @@ author: Seonghyeon Moon
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science  
 >2020 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
 
+>**Thesis Review Commitee \| 학위논문 심사**  
+>**Ph.D.**  
+>Gitaek Lee (2023) Seoul National University  
+<!-- >**M.S.**  
+> -->
+
 <br/>
 
 ---
 
 ### Professional Certificate and Training \| 자격증 및 교육 수료
 
+>**Advanced Data Analytics Semi-Professional** (2023. 6. 16.), Korea Data Agency, South Korea
+>
 >**Scan to BIM** (2022), AI Research Institute, Seoul National University, Seoul, South Korea  
 >
 >**Project Feasibility Study and Cost Estimation** (2020), Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
