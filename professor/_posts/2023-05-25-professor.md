@@ -51,19 +51,19 @@ author: Seonghyeon Moon
 
 ### Honors and Awards \| 포상
 
->2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**KSARC Scholarship**, Korean Society of Automation and Robotics in Construction, Korea ($2,000)
+>2022&nbsp;&nbsp;&nbsp;&nbsp;**KSARC Scholarship**, Korean Society of Automation and Robotics in Construction, Korea ($2,000)
 >
->2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."
+>2021&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."
 >
->2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2019 Convention "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)."
+>2019&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2019 Convention "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)."
 >
->2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Road Engineers 2019 Convention "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence."
+>2019&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Road Engineers 2019 Convention "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence."
 >
->2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Special Award**, 2018 Seoul National University X-Corps Practice Research Team
+>2018&nbsp;&nbsp;&nbsp;&nbsp;**Special Award**, 2018 Seoul National University X-Corps Practice Research Team
 >
->2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Civil Engineers 2018 Convention"Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis."
+>2018&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korean Society of Civil Engineers 2018 Convention"Non-compliance Specification Checking Based on Text-Mining Construction Standard Analysis."
 >
->2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Brain Korea 21 Scholarship**, Ministry of Education, Korea ($34,600)
+>2016 - 2020&nbsp;&nbsp;&nbsp;&nbsp;**Brain Korea 21 Scholarship**, Ministry of Education, Korea ($34,600)
 
 <br/>
 
@@ -71,6 +71,9 @@ author: Seonghyeon Moon
 
 ### Professional Presentations and Workshops \| 전문 발표
 
+>2023&nbsp;&nbsp;&nbsp;&nbsp;**Industrial Document Digitization**  
+>Invited Seminar, Korea Institute of Geoscience And Mineral Resources, Daejeon, South Korea. (2023. 7. 3.)
+>
 >2023&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Digital Twin Platform for Smart Construction and Automation**  
 >KICS Summer Conference 2023, Korean Institute of Communications and Information Sciences, Jeju, South Korea. (2023. 6. 23.)
 >
