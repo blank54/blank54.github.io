@@ -13,7 +13,7 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (International) \| 국제학술지 논문
 
->13. [_Under Review_] Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Systematic Review on Natural Language Processing Applications in Construction Compared to the State-of-the-Art." _Automation in Construction_. [_Submitted on 2023.04.26._, Q1, SCI-E, 2021 IF 10.517]
+>13. [_Accepted_] Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Comparing Natural Language Processing (NLP) Applications in Construction and Computer Science Using Preferred Reporting Items for Systematic Reviews (PRISMA)." _Automation in Construction_. [_Accepted on 2023.07.09._, Q1, SCI-E, 2021 IF 10.517]
 >
 >12. [_Under Review_] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_ [_Submitted on 2022.12.19._, Q1, SCI-E, 2021 IF 7.862]
 >
