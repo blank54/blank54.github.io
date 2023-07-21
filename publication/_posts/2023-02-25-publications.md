@@ -13,9 +13,9 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (International) \| 국제학술지 논문
 
->13. [_Accepted_] Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Comparing Natural Language Processing (NLP) Applications in Construction and Computer Science Using Preferred Reporting Items for Systematic Reviews (PRISMA)." _Automation in Construction_. [_Accepted on 2023.07.09._, Q1, SCI-E, 2021 IF 10.517]
+>13. [_Under Review_] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_ [_Submitted on 2022.12.19._, Q1, SCI-E, 2021 IF 7.862]
 >
->12. [_Under Review_] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_ [_Submitted on 2022.12.19._, Q1, SCI-E, 2021 IF 7.862]
+>12. Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Comparing Natural Language Processing (NLP) Applications in Construction and Computer Science Using Preferred Reporting Items for Systematic Reviews (PRISMA)." _Automation in Construction_, 154, 105020. DOI: 10.1016/j.autcon.2023.105020 [Q1, SCI-E, 2021 IF 10.517]
 >
 >11. Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_, 39(2), 04022079. DOI: 10.1061/JMENEA.MEENG-5089 [Q1, SCI-E, 2021 IF 6.415]  
 >
