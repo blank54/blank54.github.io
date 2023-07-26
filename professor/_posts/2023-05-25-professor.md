@@ -71,6 +71,9 @@ author: Seonghyeon Moon
 
 ### Professional Presentations and Workshops \| 전문 발표
 
+<!-- >2023&nbsp;&nbsp;&nbsp;&nbsp;**Life of Assistant Professor**  
+>Invited Seminar, C!LAB at Seoul National University, Seoul, South, Korea. (2023. 8. 11.)
+> -->
 >2023&nbsp;&nbsp;&nbsp;&nbsp;**Industrial Document Digitization**  
 >Invited Seminar, Korea Institute of Geoscience And Mineral Resources, Daejeon, South Korea. (2023. 7. 3.)
 >
@@ -113,6 +116,7 @@ author: Seonghyeon Moon
 >Session Chair(좌장), 2023 Spring Conference of Korean Institute of Industrial Engineers(대한산업공학회 춘계공동학술대회)  
 
 >**Journal Review \| 논문 심사**  
+>2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Knowledge and Information Systems, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Automation in Construction, SCI(E)  
