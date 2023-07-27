@@ -13,31 +13,31 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (International) \| 국제학술지 논문
 
->13. [_Under Review_] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_ [_Submitted on 2022.12.19._, Q1, SCI-E, 2021 IF 7.862]
+>13. [_Under Review_] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_ [_Submitted on 2022.12.19._, Q1, SCI-E, 2022 IF 8.8]
 >
->12. Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Comparing Natural Language Processing (NLP) Applications in Construction and Computer Science Using Preferred Reporting Items for Systematic Reviews (PRISMA)." _Automation in Construction_, 154, 105020. DOI: 10.1016/j.autcon.2023.105020 [Q1, SCI-E, 2021 IF 10.517]
+>12. Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Comparing Natural Language Processing (NLP) Applications in Construction and Computer Science Using Preferred Reporting Items for Systematic Reviews (PRISMA)." _Automation in Construction_, 154, 105020. DOI: 10.1016/j.autcon.2023.105020 [Q1, SCI-E, 2022 IF 10.3]
 >
->11. Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_, 39(2), 04022079. DOI: 10.1061/JMENEA.MEENG-5089 [Q1, SCI-E, 2021 IF 6.415]  
+>11. Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Real-Time Construction Site Noise Mapping System Based on Spatial Interpolation." _Journal of Management Engineering_, 39(2), 04022079. DOI: 10.1061/JMENEA.MEENG-5089 [Q1, SCI-E, 2022 IF 7.4]  
 >
->10. **Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Cotractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2021 IF 10.517]  
+>10. **Moon, S.**, Chi, S.\*, and Im, S.-B. (2022). "Automated Detection of Cotractual Risk Clauses from Construction Specifications using BERT." _Automation in Construction_, 142, 104465. DOI: 10.1016/j.autcon.2022.104465 [Q1, SCI-E, 2022 IF 10.3]  
 >
->9. Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [_Online Published_, Q2, SCI-E, 2021 IF 3.850]  
+>9. Lee, G., **Moon, S.**, and Chi, S.\* (2022). "Reference Section Identification of Construction Specifications by a Deep Structured Semantic Model." _Engineering, Construction and Architectural Management_. DOI: 10.1108/ECAM-10-2021-0920 [_Online Published_, Q2, SCI-E, 2022 IF 4.1]  
 >
->8. **Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2021 IF 7.862]  
+>8. **Moon, S.**, Lee, G., and Chi, S.\* (2022). "Automated System for Construction Specification Review Using Natural Language Processing." _Advanced Engineering Informatics_, 51, 101495. DOI: 10.1016/j.aei.2021.101495. [Q1, SCI-E, 2022 IF 8.8]  
 >
->7. Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q3, SCI-E, 2021 IF 2.115]  
+>7. Chi, S., **Moon, S.**, and Kim, D.Y.\* (2021). "Internal Communication Effectiveness Model for Construction Companies: A Case Study of the Korean Construction Industry." _KSCE Journal of Civil Engineering_, 25(12), 4520-4534. DOI: 10.1007/s12205-021-0483-1. [Q3, SCI-E, 2022 IF 2.2]  
 >
->6. **Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2021 IF 10.517]  
+>6. **Moon, S.**, Lee, G., and Chi, S.\* (2021). "Semantic Text-pairing for Relevant Provision Identification in Construction Specification Reviews." _Automation in Construction_, 128, 103780. DOI: 10.1016/j.autcon.2021.103780. [Q1, SCI-E, 2022 IF 10.3]  
 >
->5. **Moon, S.**, Lee, G., Chi, S.\*, and Oh, H. (2021). "Automated Construction Specification Review with Named Entity Recognition Using Natural Language Processing." _Journal of Construction Engineering and Management_, 147(1), 04020147. DOI: 10.1061/(asce)co.1943-7862.0001953. [Q1, SCI-E, 2021 IF 5.292]  
+>5. **Moon, S.**, Lee, G., Chi, S.\*, and Oh, H. (2021). "Automated Construction Specification Review with Named Entity Recognition Using Natural Language Processing." _Journal of Construction Engineering and Management_, 147(1), 04020147. DOI: 10.1061/(asce)co.1943-7862.0001953. [Q1, SCI-E, 2022 IF 5.1]  
 >
->4. **Moon, S.**, Chung, S., and Chi, S.\* (2020). "Bridge Damage Recognition from Inspection Reports Using NER Based on Recurrent Neural Network with Active Learning." _Journal of Performance of Constructed Facilities_, 34(6), 04020119. DOI: 10.1061/(ASCE)CF.1943-5509.0001530. [Q3, SCI-E, 2021 IF 2.317]  
+>4. **Moon, S.**, Chung, S., and Chi, S.\* (2020). "Bridge Damage Recognition from Inspection Reports Using NER Based on Recurrent Neural Network with Active Learning." _Journal of Performance of Constructed Facilities_, 34(6), 04020119. DOI: 10.1061/(ASCE)CF.1943-5509.0001530. [Q3, SCI-E, 2022 IF 2.5]  
 >
->3. **Moon, S.**, Shin, Y., Hwang, B.G., and Chi, S.\* (2018). "Document Management System Using Text Mining for Information Acquisition of International Construction." _KSCE Journal of Civil Engineering_, 22(12), 4791-4798. DOI: 10.1007/s12205-018-1528-y. [Q3, SCI-E, 2021 IF 2.115]  
+>3. **Moon, S.**, Shin, Y., Hwang, B.G., and Chi, S.\* (2018). "Document Management System Using Text Mining for Information Acquisition of International Construction." _KSCE Journal of Civil Engineering_, 22(12), 4791-4798. DOI: 10.1007/s12205-018-1528-y. [Q3, SCI-E, 2022 IF 2.2]  
 >
->2. **Moon, S.**, Chi, S., and Kim, D.Y.\* (2018). "Predicting Construction Cost Index Using the Autoregressive Fractional Integrated Moving Average (ARFIMA) Model." _Journal of Management in Engineering_, 34(2), 04017063. DOI: 10.1061/(asce)me.1943-5479.0000571. [Q1, SCI-E, 2021 IF 6.415]  
+>2. **Moon, S.**, Chi, S., and Kim, D.Y.\* (2018). "Predicting Construction Cost Index Using the Autoregressive Fractional Integrated Moving Average (ARFIMA) Model." _Journal of Management in Engineering_, 34(2), 04017063. DOI: 10.1061/(asce)me.1943-5479.0000571. [Q1, SCI-E, 2022 IF 7.4]  
 >
->1. Zhang, H., Chi, S.\*, Yang, J., Nepal, M., and **Moon, S.** (2017). "Development of a Safety Inspection Framework on Construction Sites Using Mobile Computing." _Journal of Management in Engineering_, 33(3), 04016048. DOI: 10.1061/(ASCE)ME.1943-5479.0000495. [Q1, SCI-E, 2021 IF 6.415]  
+>1. Zhang, H., Chi, S.\*, Yang, J., Nepal, M., and **Moon, S.** (2017). "Development of a Safety Inspection Framework on Construction Sites Using Mobile Computing." _Journal of Management in Engineering_, 33(3), 04016048. DOI: 10.1061/(ASCE)ME.1943-5479.0000495. [Q1, SCI-E, 2022 IF 7.4]  
 
 <div align='right'>
 *Corresponding Author
