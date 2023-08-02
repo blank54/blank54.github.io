@@ -120,12 +120,12 @@ author: Seonghyeon Moon
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Automation in Construction, SCI(E)  
->2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction  
+>2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Machine Learning and Knowledge Extraction, ESCI  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Energies, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Artificial Intelligence, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Sustainability, SCI(E), SSCI  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Advanced Engineering Informatics, SCI(E)  
->2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science  
+>2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science, SCI(E)  
 >2020 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
 
 >**Thesis Review Commitee \| 학위논문 심사**  
