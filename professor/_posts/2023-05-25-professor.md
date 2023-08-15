@@ -71,9 +71,9 @@ author: Seonghyeon Moon
 
 ### Professional Presentations and Workshops \| 전문 발표
 
-<!-- >2023&nbsp;&nbsp;&nbsp;&nbsp;**Life of Assistant Professor**  
->Invited Seminar, C!LAB at Seoul National University, Seoul, South, Korea. (2023. 8. 11.)
-> -->
+>2023&nbsp;&nbsp;&nbsp;&nbsp;**Life of Newbie Professor**  
+>Invited Seminar, C!LAB at Seoul National University, Incheon, South Korea. (2023. 8. 11.)
+>
 >2023&nbsp;&nbsp;&nbsp;&nbsp;**Industrial Document Digitization**  
 >Invited Seminar, Korea Institute of Geoscience And Mineral Resources, Daejeon, South Korea. (2023. 7. 3.)
 >
