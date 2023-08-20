@@ -13,7 +13,7 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (International) \| 국제학술지 논문
 
->13. [_Accepted_] Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_ [_Accepted on 2023.08.08._, Q1, SCI-E, 2022 IF 8.8]
+>13. Lee, G., **Moon, S.**, Hwang, J., and Chi, S.\* (2023). "Development of a Real-Time Noise Estimation Model for Construction Sites." _Advanced Engineering Informatics_, 58, 102133. DOI: 10.1016/j.aei.2023.102133 [Q1, SCI-E, 2022 IF 8.8]
 >
 >12. Chung, S., **Moon, S.**, Kim, J., Kim, J., Lim, S., and Chi, S.\* (2023). "Comparing Natural Language Processing (NLP) Applications in Construction and Computer Science Using Preferred Reporting Items for Systematic Reviews (PRISMA)." _Automation in Construction_, 154, 105020. DOI: 10.1016/j.autcon.2023.105020 [Q1, SCI-E, 2022 IF 10.3]
 >
