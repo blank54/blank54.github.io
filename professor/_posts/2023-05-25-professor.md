@@ -116,6 +116,7 @@ author: Seonghyeon Moon
 >Session Chair(좌장), 2023 Spring Conference of Korean Institute of Industrial Engineers(대한산업공학회 춘계공동학술대회)  
 
 >**Journal Review \| 논문 심사**  
+>2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Construction Engineering and Management, SCI(E)  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Knowledge and Information Systems, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Buildings, SCI(E)  
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Management in Engineering, SCI(E)  
