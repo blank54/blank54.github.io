@@ -113,7 +113,7 @@ author: Seonghyeon Moon
 >2015 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(종신회원)**, Korean Society of Civil Engineers (대한토목학회)  
 
 >**Conference Activities \| 학술대회 운영위원**  
->Session Chair(좌장), 2023 Spring Conference of Korean Institute of Industrial Engineers(대한산업공학회 춘계공동학술대회)  
+>**Session Chair(좌장)**, 2023 Spring Conference of Korean Institute of Industrial Engineers(대한산업공학회 춘계공동학술대회)  
 
 >**Journal Review \| 논문 심사**  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Construction Engineering and Management, SCI(E)  
@@ -135,12 +135,12 @@ author: Seonghyeon Moon
 
 ### Professional Certificate and Training \| 자격증 및 교육 수료
 
->**Advanced Data Analytics Semi-Professional** (2023. 6. 16.), Korea Data Agency, South Korea
+>**Advanced Data Analytics Semi-Professional** (2023. 6. 16.) Korea Data Agency, South Korea
 >
->**Scan to BIM** (2022), AI Research Institute, Seoul National University, Seoul, South Korea  
+>**Scan to BIM** (2022) AI Research Institute, Seoul National University, Seoul, South Korea  
 >
->**Project Feasibility Study and Cost Estimation** (2020), Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
+>**Project Feasibility Study and Cost Estimation** (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
 >
->**Building Information Modeling** (2020), Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
+>**Building Information Modeling** (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
 >
->**Industrial Engineer Information Processing** (2013), Human Resources Development Service of Korea  
+>**Industrial Engineer Information Processing** (2013) Human Resources Development Service of Korea  
