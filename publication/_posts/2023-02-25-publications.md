@@ -46,6 +46,8 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (Domestic) \| 국내학술지 논문
 
+>4. [_Under Review_] **Moon, S.**\*, Lee, G., Hwang, J., Chi, S., and Won, D. (2023). "Integrated Sensing Module for Environmental Information Acquisition on Construction Site." _KSCE Journal of Civil and Environmental Engineering Research_. (Submitted on 2023.10.11.)  
+>
 >3. Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Countable-grid Scheduling Method (CSM) and CSM-based Soft-logic Algorithm Development for Automated Construction Scheduling and Visualization." _Korean Journal of Construction Engineering and Management_, 23(4), 65-77. DOI: 10.6106/KJCEM.2022.23.4.065.  
 >
 >2. Chung, S., **Moon, S.**, and Chi, S.\* (2018). "Bridge Damage Factor Recognition from Inspection Reports Using Deep Learning." _KSCE Journal of Civil and Environmental Engineering Research_, 38(4), 621-625.  
@@ -60,6 +62,16 @@ author: Seonghyeon Moon
 
 ## Conference Proceedings \| 국내외 학술대회 발표
 
+<!-- >26. [In Preparation] Hong, J., Lee, S., and **Moon, S.** (2023). "" _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea.
+>
+>25. [In Preparation] Lee, S., Hong, J., and **Moon, S.** (2023). "" _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea.
+> -->
+>24. [_Under Review_] Seong, H., Seo, Y., and **Moon, S.** (2023). "Methodologies Investigation on Developing Site-oriented Digital Map." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea. (Submitted on 2023.10.11.)  
+>
+>23. [_Under Review_] Seong, M. and **Moon, S.** (2023). "Time-series Analysis of Consumer Price Index using Text Mining on News Articles." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea. (Submitted on 2023.10.11.)  
+>
+>22. [_Under Review_] Hwang, J., Lee, G., **Moon, S.**, and Chi, S. (2023). "Real-time Particulate Matter Estimation Model for Construction Site Using Spatial Interpolation." _2023 Conference of Korea Institute of Construction Engineering and Management_, Goseong, South Korea.
+>
 >21. Park, Y. and **Moon, S.** (2023). "Anomaly Detection Model using Noise Data Analysis: Performance Comparison of 1D-CNN+GRU and SFTF+EFFNET Techniques." _Korea Computer Congress 2023_, Jeju, South Korea.  
 >
 >20. **Moon, S.** and Kim, J. (2023). "Deep Learning-based Automated Sentence Segmentation for Digitization of Offline Document from Industrial Jobsites." _2023 Spring Conference of Korean Institute of Industrial Engineers_, Jeju, South Korea.  
@@ -70,9 +82,9 @@ author: Seonghyeon Moon
 >
 >17. Lee, G., **Moon, S.**, Hwang, J., Chi, S.\*, and Rim, D. (2022). "Real-Time Noise Sensing at Construction Sites based on Spatial Interpolation for Effective Reduction Measures." _29th International Workshop on Intelligent Computing in Engineering, EG-ICE 2022_, Aarhus, Denmark.  
 >
->16. Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 KICEM Conference_, Gyeongju, South Korea.  
+>16. Choi, H., **Moon, S.**, and Chi, S.\* (2021). "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method(DPPM)." _2021 Conference of Korea Institute of Construction Engineering and Management_, Gyeongju, South Korea.  
 >
->15. **Moon, S.**, Chung, S., Lee, G., and Chi, S.\* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." _2021 KICEM Conference_, Gyeongju, South Korea.  
+>15. **Moon, S.**, Chung, S., Lee, G., and Chi, S.\* (2021). "Provision Classification for Automated Construction Specification Review using Bidirectional Encoder Representations from Transformer (BERT)." _2021 Conference of Korea Institute of Construction Engineering and Management_, Gyeongju, South Korea.  
 >
 >14. Lee, G., **Moon, S.**, Won, D., Yoon S., and Chi, S. (2021). "Real-time Construction Site Noise Mapping System Based on Sensing Data." _47th KSCE 2021 Civil Expo and Conference_, Gwangju, South Korea.  
 >
@@ -80,7 +92,7 @@ author: Seonghyeon Moon
 >
 >12. Lee, G., **Moon, S.**, and Chi, S.\* (2020). "Reference Identification of Sub-categories in Construction Specifications Using the Deep Structured Semantic Model." _46th KSCE 2020 Civil Expo and Conference_, Jeju, South Korea.  
 >
->11. Park, C., **Moon, S.**, Chi, S.\*, and Oh, H. (2019). "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)." _2019 KICEM Conference_, Goyang, South Korea.  
+>11. Park, C., **Moon, S.**, Chi, S.\*, and Oh, H. (2019). "Risk Assessment of Middle East Road Construction by Analyzing Non-conformance Reports (NCR)." _2019 Conference of Korea Institute of Construction Engineering and Management_, Goyang, South Korea.  
 >
 >10. Lee, H., Oh, H., **Moon, S.**, and Chi, S.\* (2019). "Automatic Comparative Analysis of Construction Specifications Using Text-mining Based on Artificial Intelligence." _2019 Conference on Korean Society of Road Engineers_, Busan, South Korea.  
 >
