@@ -66,11 +66,11 @@ author: Seonghyeon Moon
 >
 >25. [In Preparation] Lee, S., Hong, J., and **Moon, S.** (2023). "" _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea.
 > -->
->24. [_Under Review_] Seong, H., Seo, Y., and **Moon, S.** (2023). "Methodologies Investigation on Developing Site-oriented Digital Map." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea. (Submitted on 2023.10.11.)  
+>24. Seong, H., Seo, Y., and **Moon, S.** (2023). "Methodologies Investigation on Developing Site-oriented Digital Map." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
 >
->23. [_Under Review_] Seong, M. and **Moon, S.** (2023). "Time-series Analysis of Consumer Price Index using Text Mining on News Articles." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea. (Submitted on 2023.10.11.)  
+>23. Seong, M. and **Moon, S.** (2023). "Time-series Analysis of Consumer Price Index using Text Mining on News Articles." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
 >
->22. [_Under Review_] Hwang, J., Lee, G., **Moon, S.**, and Chi, S. (2023). "Real-time Particulate Matter Estimation Model for Construction Site Using Spatial Interpolation." _2023 Conference of Korea Institute of Construction Engineering and Management_, Goseong, South Korea.
+>22. Hwang, J., Lee, G., **Moon, S.**, and Chi, S. (2023). "Real-time Particulate Matter Estimation Model for Construction Site Using Spatial Interpolation." _2023 Conference of Korea Institute of Construction Engineering and Management_, Goseong, South Korea.  
 >
 >21. Park, Y. and **Moon, S.** (2023). "Anomaly Detection Model using Noise Data Analysis: Performance Comparison of 1D-CNN+GRU and SFTF+EFFNET Techniques." _Korea Computer Congress 2023_, Jeju, South Korea.  
 >
