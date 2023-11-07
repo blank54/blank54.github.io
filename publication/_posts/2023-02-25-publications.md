@@ -46,7 +46,7 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (Domestic) \| 국내학술지 논문
 
->4. [_Under Review_] **Moon, S.**\*, Lee, G., Hwang, J., Chi, S., and Won, D. (2023). "Integrated Sensing Module for Environmental Information Acquisition on Construction Site." _KSCE Journal of Civil and Environmental Engineering Research_. (_Submitted on 2023.10.11._)  
+>4. [_In Press_] **Moon, S.**\*, Lee, G., Hwang, J., Chi, S., and Won, D. (2023). "Integrated Sensing Module for Environmental Information Acquisition on Construction Site." _KSCE Journal of Civil and Environmental Engineering Research_. (_Accepted on 2023.11.07._)  
 >
 >3. Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Countable-grid Scheduling Method (CSM) and CSM-based Soft-logic Algorithm Development for Automated Construction Scheduling and Visualization." _Korean Journal of Construction Engineering and Management_, 23(4), 65-77. DOI: 10.6106/KJCEM.2022.23.4.065.  
 >
@@ -62,9 +62,9 @@ author: Seonghyeon Moon
 
 ## Conference Proceedings \| 국내외 학술대회 발표
 
->26. [_Under Review_] Hong, J., Lee, S., and **Moon, S.**\* (2023). "Automated Pairing of Safety Accidents and Regulations in Construction Industry based on Text Mining." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Submitted on 2023.10.27._)  
+>26. [_Accepted_] Hong, J., Lee, S., and **Moon, S.**\* (2023). "Automated Pairing of Safety Accidents and Regulations in Construction Industry based on Text Mining." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Accepted on 2023.10.27._)  
 >
->25. [_Under Review_] Lee, S., Hong, J., and **Moon, S.**\* (2023). "Automated Model Development on Safety Accident Prediction in Construction Sites Using CSI Data." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Submitted on 2023.10.27._)  
+>25. [_Accepted_] Lee, S., Hong, J., and **Moon, S.**\* (2023). "Automated Model Development on Safety Accident Prediction in Construction Sites Using CSI Data." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Accepted on 2023.10.27._)  
 >
 >24. Seong, H., Seo, Y., and **Moon, S.**\* (2023). "Methodologies Investigation on Developing Site-oriented Digital Map." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
 >
