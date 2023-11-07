@@ -131,6 +131,17 @@ author: Seonghyeon Moon
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science, SCI(E)  
 >2020 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
 
+<br/>\
+
+---
+
+>**학위논문심사(박사)** \| **Dissertation Commitee(Ph.D.)**  
+>2023 이기택(Gitaek Lee) 서울대학교 건설환경공학부  
+
+>**학위논문심사(석사)** \| **Dissertation Commitee(M.S.)**  
+>2023 박세현(Sehyeon Park) 경상국립대학교 산업시스템공학부  
+>2023 배성용(Seongyong Bae) 경상국립대학교 산업시스템공학부  
+
 <br/>
 
 ---
