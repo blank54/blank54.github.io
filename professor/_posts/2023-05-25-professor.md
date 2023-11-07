@@ -131,7 +131,7 @@ author: Seonghyeon Moon
 >2022 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Applied Science, SCI(E)  
 >2020 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, KSCE Journal of Civil Engineering, SCI(E)
 
-<br/>\
+<br/>
 
 ---
 
