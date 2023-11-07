@@ -62,13 +62,13 @@ author: Seonghyeon Moon
 
 ## Conference Proceedings \| 국내외 학술대회 발표
 
->26. [_Under Review_] Hong, J., Lee, S., and **Moon, S.** (2023). "Automated Pairing of Safety Accidents and Regulations in Construction Industry based on Text Mining." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Submitted on 2023.10.27._)  
+>26. [_Under Review_] Hong, J., Lee, S., and **Moon, S.**\* (2023). "Automated Pairing of Safety Accidents and Regulations in Construction Industry based on Text Mining." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Submitted on 2023.10.27._)  
 >
->25. [_Under Review_] Lee, S., Hong, J., and **Moon, S.** (2023). "Automated Model Development on Safety Accident Prediction in Construction Sites Using CSI Data." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Submitted on 2023.10.27._)  
+>25. [_Under Review_] Lee, S., Hong, J., and **Moon, S.**\* (2023). "Automated Model Development on Safety Accident Prediction in Construction Sites Using CSI Data." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Submitted on 2023.10.27._)  
 >
->24. Seong, H., Seo, Y., and **Moon, S.** (2023). "Methodologies Investigation on Developing Site-oriented Digital Map." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
+>24. Seong, H., Seo, Y., and **Moon, S.**\* (2023). "Methodologies Investigation on Developing Site-oriented Digital Map." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
 >
->23. Seong, M. and **Moon, S.** (2023). "Time-series Analysis of Consumer Price Index using Text Mining on News Articles." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
+>23. Seong, M. and **Moon, S.**\* (2023). "Time-series Analysis of Consumer Price Index using Text Mining on News Articles." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
 >
 >22. Hwang, J., Lee, G., **Moon, S.**, and Chi, S. (2023). "Real-time Particulate Matter Estimation Model for Construction Site Using Spatial Interpolation." _2023 Conference of Korea Institute of Construction Engineering and Management_, Goseong, South Korea.  
 >
