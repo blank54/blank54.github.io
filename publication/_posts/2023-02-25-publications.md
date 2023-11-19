@@ -43,6 +43,7 @@ author: Seonghyeon Moon
 *Corresponding Author
 </div>
 
+---
 
 ### Refereed Journal Articles (Domestic) \| 국내학술지 논문
 
@@ -130,6 +131,8 @@ author: Seonghyeon Moon
 
 <br/>
 
+---
+
 ### Patent (Under Review) \| 특허 출원
 
 >4. Chi, S., **Moon, S.**, and Lee, G. (2022. 5. 17.) "Method and Device for Automatic Review Construction Contract Documents using Semantic Text Analysis." (Korea, Application Number: 10-2022-0060293)  
@@ -141,6 +144,8 @@ author: Seonghyeon Moon
 >1. Chi, S., Lee, G., and **Moon, S.** (2021. 7. 21.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (Korea, Application Number: 10-2021-0095986)  
 
 <br/>
+
+---
 
 ### Software \| 소프트웨어 등록
 
