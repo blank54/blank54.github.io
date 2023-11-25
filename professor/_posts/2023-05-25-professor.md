@@ -51,6 +51,8 @@ author: Seonghyeon Moon
 
 ### Honors and Awards \| 포상
 
+>2023&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2023 Convention "Real-time Particulate Matter Estimation Model for Construction Site Using Spatial Interpolation."
+>
 >2022&nbsp;&nbsp;&nbsp;&nbsp;**KSARC Scholarship**, Korean Society of Automation and Robotics in Construction, Korea ($2,000)
 >
 >2021&nbsp;&nbsp;&nbsp;&nbsp;**Outstanding Paper Award**, Korea Institute of Construction Engineering and Management 2021 Convention "Automated Construction Scheduling and Visualization by Digitalized Proper Path Method (DPPM)."

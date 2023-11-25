@@ -149,6 +149,8 @@ author: Seonghyeon Moon
 
 ### Software \| 소프트웨어 등록
 
+>8. [_Under Review_] **Moon, S.**, Seo, Y., and Seong, H. (2023) "Program for Sensor Deployment Optimization in Construction Site." (Republic of Korea) [_Submitted on 2023.11.24._]  
+>
 >7. Chi, S., Jang, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 9. 5.) "Deep Learning-based Construction Site Noise Classification Program." (Republic of Korea, Program C-2022-035160)  
 >
 >6. Chi, S., Lim, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 3. 21.) "3D Mapping Software for Environmental Information on Construction Site." (Korea, Program C-2022-013870)  
