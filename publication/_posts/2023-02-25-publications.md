@@ -47,9 +47,13 @@ author: Seonghyeon Moon
 
 ### Refereed Journal Articles (Domestic) \| 국내학술지 논문
 
->5. [_Under Review_] Park, Y. and **Moon, S.**\* (2023). "Automated Development of Domain-Specific Thesaurus Using National Language Processing for Word Digitization." _Journal of the Korean Institute of Industrial Engineers_. (_Submitted on 2023.11.19._)  
+<!-- >7. [_In preparation_] 백슬아, 이슬찬, **문성현**, 전정환\*. (2024). "Analysis of Aritificial Intelligence Application Types of Unmanned Aerial Vehicles(무인항공기의 인공지능 활용유형분석)." Korean Society of Industrial and Systems Engineering.  
 >
->4. [_In Press_] **Moon, S.**\*, Lee, G., Hwang, J., Chi, S., and Won, D. (2023). "Integrated Sensing Module for Environmental Information Acquisition on Construction Site." _KSCE Journal of Civil and Environmental Engineering Research_. (_Accepted on 2023.11.07._)  
+>6. [_In preparation_] 윤철원, 이슬찬, **문성현**, 전정환\*. (2024). "특허 데이터를 활용한 국내 우주분야 기술 동향 분석: 토픽 모델링과 네트워크 분석기법을 중심으로." 산업혁신연구.  
+> -->
+<!-- >5. [_Under Review_] Park, Y. and **Moon, S.**\* (2023). "Automated Development of Domain-Specific Thesaurus Using National Language Processing for Word Digitization." _Journal of the Korean Institute of Industrial Engineers_. (_Submitted on 2023.11.19._)  
+> -->
+>4. [_In Press_] **Moon, S.**\*, Lee, G., Hwang, J., Chi, S., and Won, D. (2024). "Integrated Sensing Module for Environmental Information Acquisition on Construction Site." _KSCE Journal of Civil and Environmental Engineering Research_. (_Accepted on 2023.11.07._)  
 >
 >3. Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Countable-grid Scheduling Method (CSM) and CSM-based Soft-logic Algorithm Development for Automated Construction Scheduling and Visualization." _Korean Journal of Construction Engineering and Management_, 23(4), 65-77. DOI: 10.6106/KJCEM.2022.23.4.065.  
 >
@@ -65,9 +69,9 @@ author: Seonghyeon Moon
 
 ## Conference Proceedings \| 국내외 학술대회 발표
 
->26. [_Accepted_] Hong, J., Lee, S., and **Moon, S.**\* (2023). "Automated Pairing of Safety Accidents and Regulations in Construction Industry based on Text Mining." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Accepted on 2023.10.27._)  
+>26. Hong, J., Lee, S., **Moon, S.**\*, Sim, H., and Park, W. (2023). "Automated Pairing of Safety Accidents and Regulations in Construction Industry based on Text Mining." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea.  
 >
->25. [_Accepted_] Lee, S., Hong, J., and **Moon, S.**\* (2023). "Automated Model Development on Safety Accident Prediction in Construction Sites Using CSI Data." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea. (_Accepted on 2023.10.27._)  
+>25. Lee, S., Hong, J., **Moon, S.**\*, Jeong, J., and Park, W. (2023). "Automated Model Development on Safety Accident Prediction in Construction Sites Using CSI Data." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea.  
 >
 >24. Seong, H., Seo, Y., and **Moon, S.**\* (2023). "Methodologies Investigation on Developing Site-oriented Digital Map." _2023 Fall Conference of Korean Institute of Industrial Engineers_, Ulsan, South Korea.  
 >
@@ -149,7 +153,7 @@ author: Seonghyeon Moon
 
 ### Software \| 소프트웨어 등록
 
->8. [_Under Review_] **Moon, S.**, Seo, Y., and Seong, H. (2023) "Program for Sensor Deployment Optimization in Construction Site." (Republic of Korea) [_Submitted on 2023.11.24._]  
+>8. [_Under Review_] **Moon, S.**, Seo, Y., and Seong, H. (2023) "건설현장 센서 배치 최적화 알고리즘(Program for Sensor Deployment Optimization in Construction Site)." (Republic of Korea) [_Submitted on 2023.12.08._]  
 >
 >7. Chi, S., Jang, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022. 9. 5.) "Deep Learning-based Construction Site Noise Classification Program." (Republic of Korea, Program C-2022-035160)  
 >
