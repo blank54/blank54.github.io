@@ -69,6 +69,9 @@ author: Seonghyeon Moon
 
 ## Conference Proceedings \| 국내외 학술대회 발표
 
+>27. [_Under Review_] **Moon, S.**\*, Park, Y., Kim, J., and Chi, S. (2024). "Application of Domain-specific Thesaurus to Construction Documents based on Flow Margin of Semantic Similarity." _The 10th International
+Conference on Construction Engineering and Project Management (ICCEPM2024)_, Sapporo, Japan. (_Submitted on 2023.12.13._)  
+>
 >26. Hong, J., Lee, S., **Moon, S.**\*, Sim, H., and Park, W. (2023). "Automated Pairing of Safety Accidents and Regulations in Construction Industry based on Text Mining." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea.  
 >
 >25. Lee, S., Hong, J., **Moon, S.**\*, Jeong, J., and Park, W. (2023). "Automated Model Development on Safety Accident Prediction in Construction Sites Using CSI Data." _2023 Conference of Korean Society of Automation and Robotics in Construction_, Sejong, South Korea.  
