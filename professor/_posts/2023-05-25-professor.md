@@ -108,6 +108,9 @@ author: Seonghyeon Moon
 
 ### Professional Membership Roles \| 전문 활동
 
+>**Professional Services \| 대외 활동**  
+>2023 - _Present_ **국토안전자문위원회 위원**, 국토안전관리원  
+
 >**Academic Society \| 학회 활동**  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Communications and Information Sciences (한국통신학회)  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Information Scientists and Engineers (한국정보과학회)  
