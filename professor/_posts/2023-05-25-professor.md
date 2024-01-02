@@ -76,37 +76,41 @@ author: Seonghyeon Moon
 ### Professional Presentations and Workshops \| 전문 발표
 
 >2023&nbsp;&nbsp;&nbsp;&nbsp;**Life of Newbie Professor**  
->Invited Seminar, C!LAB at Seoul National University, Incheon, South Korea. (2023. 8. 11.)
+>Invited Seminar, C!LAB at Seoul National University, Incheon, South Korea. (2023.08.11.)
 >
 >2023&nbsp;&nbsp;&nbsp;&nbsp;**Industrial Document Digitization**  
->Invited Seminar, Korea Institute of Geoscience And Mineral Resources, Daejeon, South Korea. (2023. 7. 3.)
+>Invited Seminar, Korea Institute of Geoscience And Mineral Resources, Daejeon, South Korea. (2023.07.03.)
 >
 >2023&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Digital Twin Platform for Smart Construction and Automation**  
->KICS Summer Conference 2023, Korean Institute of Communications and Information Sciences, Jeju, South Korea. (2023. 6. 23.)
+>KICS Summer Conference 2023, Korean Institute of Communications and Information Sciences, Jeju, South Korea. (2023.06.23.)
 >
 >2022&nbsp;&nbsp;&nbsp;&nbsp;**Research Trends in Construction Management**  
->Republic of Korea Army, Daejeon, South Korea. (2022. 9. 26.)
+>Republic of Korea Army, Daejeon, South Korea. (2022.09.26.)
 >
 >2021&nbsp;&nbsp;&nbsp;&nbsp;**Environmental Information Sensing on Construction Site**  
->Korea Agency for Infrastructure Technology Advancement, Seoul, South Korea. (2021. 10. 27.)
+>Korea Agency for Infrastructure Technology Advancement, Seoul, South Korea. (2021.10.27.)
 >
 >2021&nbsp;&nbsp;&nbsp;&nbsp;**Cost and Performance Analysis for Bridge Management**  
->Korea Institute of Civil Engineering and Building Technology, Seoul, South Korea. (2021. 3. 15.)
+>Korea Institute of Civil Engineering and Building Technology, Seoul, South Korea. (2021.03.15.)
 >
 >2020&nbsp;&nbsp;&nbsp;&nbsp;**Automated Construction Specification Review using Deep Learning-based Text Mining**  
->2019 Korea Institute of Construction Engineering and Management Conference 3 TRACK: Smart Construction, Seoul, South Korea. (2020. 11. 5.)
+>2019 Korea Institute of Construction Engineering and Management Conference 3 TRACK: Smart Construction, Seoul, South Korea. (2020.11.05.)
 >
 >2018&nbsp;&nbsp;&nbsp;&nbsp;**Construction Safety Accident Analyses Based on Natural Language Processing**  
->2018 NTUST-SNU-NTU-VT Joint Workshop, National Taiwan University of Science and Technology, Taipei, Taiwan. (2018. 1. 3.)
+>2018 NTUST-SNU-NTU-VT Joint Workshop, National Taiwan University of Science and Technology, Taipei, Taiwan. (2018.01.03.)
 >
 >2015&nbsp;&nbsp;&nbsp;&nbsp;**Introduction to Fractal**  
->Department of Civil and Environmental Engineering, Seoul National University, Seoul, South Korea. (2015. 10. 2.)
+>Department of Civil and Environmental Engineering, Seoul National University, Seoul, South Korea. (2015.10.02.)
 
 <br/>
 
 ---
 
 ### Professional Membership Roles \| 전문 활동
+
+>**Articles Published \| 전문 기사**  
+>2. "스마트건설을 위한 건설현장 디지털트윈." IE매거진, 2023 겨울호(2023.12.), ISSN 2234-0300.  
+>1. "ISARC 2018 in Berlin 참관기." 한국건설관리학회지, 제19권, 제5호(2018.10.), 12297534.  
 
 >**Professional Services \| 대외 활동**  
 >2023 - _Present_ **국토안전자문위원회 위원**, 국토안전관리원  
@@ -143,11 +147,13 @@ author: Seonghyeon Moon
 ---
 
 >**학위논문심사(박사)** \| **Dissertation Commitee(Ph.D.)**  
->2023 이기택(Gitaek Lee) 서울대학교 건설환경공학부  
+>2023.08. 이기택(Gitaek Lee) 서울대학교 건설환경공학부  
 
 >**학위논문심사(석사)** \| **Dissertation Commitee(M.S.)**  
->2023 박세현(Sehyeon Park) 경상국립대학교 산업시스템공학부  
->2023 배성용(Seongyong Bae) 경상국립대학교 산업시스템공학부  
+>2024.02. 박세현(Sehyeon Park) 경상국립대학교 산업시스템공학부  
+>2024.02. 배성용(Seongyong Bae) 경상국립대학교 산업시스템공학부  
+>2024.02. 백슬아(Seulah Baek) 경상국립대학교 산업시스템공학부  
+>2024.02. 윤철원(Cheolwon Yoon) 경상국립대학교 산업시스템공학부  
 
 <br/>
 
@@ -155,7 +161,7 @@ author: Seonghyeon Moon
 
 ### Professional Certificate and Training \| 자격증 및 교육 수료
 
->자격증: **Advanced Data Analytics Semi-Professional(데이터분석 준전문가)** (2023. 6. 16.) Korea Data Agency, South Korea  
+>자격증: **Advanced Data Analytics Semi-Professional(데이터분석 준전문가)** (2023.06.16.) Korea Data Agency, South Korea  
 >
 >자격증: **Industrial Engineer Information Processing(정보처리산업기사)** (2013) Human Resources Development Service of Korea  
 >
