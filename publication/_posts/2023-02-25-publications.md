@@ -158,17 +158,19 @@ Conference on Construction Engineering and Project Management (ICCEPM2024)_, Sap
 
 ### Software \| 소프트웨어 등록
 
->8. **Moon, S.**, Seo, Y., and Seong, H. (2023.12.14.) "건설현장 센서 배치 최적화 알고리즘(Program for Sensor Deployment Optimization in Construction Site)." (South Korea, C-2023-060178)  
+>9. [_Under Review_] **Moon, S.**, Lee, S., and Hong, J. (2024) "건설공사 안전사고 예측모델의 자동구축 프로그램(Program on Automated Development of Construction Safety Accident Prediction Model)." (South Korea) (_Submitted on 2023.12.26._)  
 >
->7. Chi, S., Jang, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.09.05.) "Deep Learning-based Construction Site Noise Classification Program." (South Korea, Program C-2022-035160)  
+>8. **Moon, S.**, Seo, Y., and Seong, H. (2023.12.14.) "건설현장 센서 배치 최적화 알고리즘(Program for Sensor Deployment Optimization in Construction Site)." (South Korea, Registration Number: C-2023-060178)  
 >
->6. Chi, S., Lim, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.03.21.) "3D Mapping Software for Environmental Information on Construction Site." (South Korea, Program C-2022-013870)  
+>7. Chi, S., Jang, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.09.05.) "Deep Learning-based Construction Site Noise Classification Program." (South Korea, Registration Number: C-2022-035160)  
 >
->5. Chi, S., **Moon, S.**, and Lee, G. (2022.03.21.) "Deep Learning-based Construction Contract Review Program." (South Korea, Program C-2022-013869)  
+>6. Chi, S., Lim, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.03.21.) "3D Mapping Software for Environmental Information on Construction Site." (South Korea, Registration Number: C-2022-013870)  
 >
->4. Chi, S., **Moon, S.**, and Lee, G. (2021.04.28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (South Korea, Program C-2021-018339)  
+>5. Chi, S., **Moon, S.**, and Lee, G. (2022.03.21.) "Deep Learning-based Construction Contract Review Program." (South Korea, Registration Number: C-2022-013869)  
 >
->3. Chi, S., Lee, G., and **Moon, S.** (2021.04.27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (South Korea, Program C-2021-018235)  
+>4. Chi, S., **Moon, S.**, and Lee, G. (2021.04.28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (South Korea, Registration Number: C-2021-018339)  
+>
+>3. Chi, S., Lee, G., and **Moon, S.** (2021.04.27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (South Korea, Registration Number: C-2021-018235)  
 >
 >2. Chi, S., Kim, T., and **Moon, S.** (2018.05.15.) "Semantic Search System for Risk Factor of Construction Accident" (South Korea, Registration Number: C-2018-012345)  
 >
