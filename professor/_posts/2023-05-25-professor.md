@@ -109,8 +109,8 @@ author: Seonghyeon Moon
 ### Professional Membership Roles \| 전문 활동
 
 >**Articles Published \| 전문 기사**  
->2. "스마트건설을 위한 건설현장 디지털트윈." IE매거진, 2023 겨울호(2023.12.), ISSN 2234-0300.  
->1. "ISARC 2018 in Berlin 참관기." 한국건설관리학회지, 제19권, 제5호(2018.10.), 12297534.  
+>"스마트건설을 위한 건설현장 디지털트윈." IE매거진, 2023 겨울호(2023.12.), ISSN 2234-0300.  
+>"ISARC 2018 in Berlin 참관기." 한국건설관리학회지, 제19권, 제5호(2018.10.), 12297534.  
 
 >**Professional Services \| 대외 활동**  
 >2023 - _Present_ **국토안전자문위원회 위원**, 국토안전관리원  
@@ -128,6 +128,7 @@ author: Seonghyeon Moon
 >**Session Chair(좌장)**, 2023 Spring Conference of Korean Institute of Industrial Engineers(대한산업공학회 춘계공동학술대회)  
 
 >**Journal Review \| 논문 심사**  
+>2024 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Mathematics, SCI(E)  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Scientific Report, SCI(E)  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Journal of Construction Engineering and Management, SCI(E)  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Reviewer**, Knowledge and Information Systems, SCI(E)  
