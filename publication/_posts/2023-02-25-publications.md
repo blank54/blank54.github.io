@@ -53,7 +53,7 @@ author: Seonghyeon Moon
 > -->
 <!-- >5. [_Under Review_] Park, Y. and **Moon, S.**\* (2024). "Automated Development of Domain-Specific Thesaurus for Document Digitization." _Journal of Korean Institute of Communications and Information Sciences_. (_Submitted on 2024.01.22._)  
 > -->
->4. [_In Press_] **Moon, S.**\*, Lee, G., Hwang, J., Chi, S., and Won, D. (2024). "Integrated Sensing Module for Environmental Information Acquisition on Construction Site." _KSCE Journal of Civil and Environmental Engineering Research_, 44(1).  
+>4. **Moon, S.**\*, Lee, G., Hwang, J., Chi, S., and Won, D. (2024). "Integrated Sensing Module for Environmental Information Acquisition on Construction Site." _KSCE Journal of Civil and Environmental Engineering Research_, 44(1), 85-93. DOI: 10.12652/Ksce.2024.44.1.0085  
 >
 >3. Choi, H., **Moon, S.**, and Chi, S.\* (2022). "Countable-grid Scheduling Method (CSM) and CSM-based Soft-logic Algorithm Development for Automated Construction Scheduling and Visualization." _Korean Journal of Construction Engineering and Management_, 23(4), 65-77. DOI: 10.6106/KJCEM.2022.23.4.065.  
 >
