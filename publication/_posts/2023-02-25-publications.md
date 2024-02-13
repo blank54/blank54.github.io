@@ -158,7 +158,7 @@ Conference on Construction Engineering and Project Management (ICCEPM2024)_, Sap
 
 ### Software \| 소프트웨어 등록
 
->9. [_Under Review_] **Moon, S.**, Lee, S., and Hong, J. (2024) "건설공사 안전사고 예측모델의 자동구축 프로그램(Program on Automated Development of Construction Safety Accident Prediction Model)." (South Korea) (_Submitted on 2023.12.26._)  
+>9. Lee, S., **Moon, S.**, Hong, J., Lee, G., and Park, W. (2024) "건설공사 안전사고 예측모델의 자동구축 프로그램(Program on Automated Development of Construction Safety Accident Prediction Model)." (South Korea, Registration Number: C-2024-005752)  
 >
 >8. **Moon, S.**, Seo, Y., and Seong, H. (2023.12.14.) "건설현장 센서 배치 최적화 알고리즘(Program for Sensor Deployment Optimization in Construction Site)." (South Korea, Registration Number: C-2023-060178)  
 >
