@@ -142,7 +142,7 @@ Conference on Construction Engineering and Project Management (ICCEPM2024)_, Sap
 
 ### Patent (Under Review) \| 특허 출원
 
->5. Chi, S., **Moon, S.**, Lee, G., Won, D., Hwang, J., and Kim, J. (2023.11.24.) "건설현장의 환경정보 수집 장치." (South Korea, Application Number: 10-2023-0165639)  
+>5. Chi, S., **Moon, S.**, Lee, G., Won, D., and Hwang, J. (2023.11.24.) "건설현장의 환경정보 수집 장치(Device for Collecting Environmental Information at Construction Site)." (South Korea, Application Number: 10-2023-0165639)  
 >
 >4. Chi, S., **Moon, S.**, and Lee, G. (2022.05.17.) "의미기반 텍스트 분석을 이용한 건설공사계약서 자동검토 방법 및 장치(Method and Device for Automatic Review Construction Contract Documents using Semantic Text Analysis)." (South Korea, Application Number: 10-2022-0060293)  
 >
