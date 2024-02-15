@@ -145,12 +145,12 @@ author: Seonghyeon Moon
 
 <br/>
 
----
+### Thesis Committee \| 인력 양성
 
->**학위논문심사(박사)** \| **Dissertation Commitee(Ph.D.)**  
+>**학위논문심사(박사)** \| **Dissertation Committee(Ph.D.)**  
 >2023.08. 이기택(Gitaek Lee) 서울대학교 건설환경공학부  
 
->**학위논문심사(석사)** \| **Dissertation Commitee(M.S.)**  
+>**학위논문심사(석사)** \| **Dissertation Committee(M.S.)**  
 >2024.02. 박세현(Sehyeon Park) 경상국립대학교 산업시스템공학부  
 >2024.02. 배성용(Seongyong Bae) 경상국립대학교 산업시스템공학부  
 >2024.02. 백슬아(Seulah Baek) 경상국립대학교 산업시스템공학부  
@@ -162,11 +162,11 @@ author: Seonghyeon Moon
 
 ### Professional Certificate and Training \| 자격증 및 교육 수료
 
->**Certificate \| 자격증**
+>**Certificate \| 자격증**  
 >"Advanced Data Analytics Semi-Professional(데이터분석 준전문가)." (2023.06.16.) Korea Data Agency, South Korea  
 >"Industrial Engineer Information Processing(정보처리산업기사)." (2013) Human Resources Development Service of Korea  
 
->**Education/Trainig \| 교육 수료**
+>**Education/Trainig \| 교육 수료**  
 >"Scan to BIM." (2022) AI Research Institute, Seoul National University, Seoul, South Korea  
 >"Project Feasibility Study and Cost Estimation." (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
 >"Building Information Modeling." (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
