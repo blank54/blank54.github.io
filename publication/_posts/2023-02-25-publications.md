@@ -134,7 +134,7 @@ Conference on Construction Engineering and Project Management (ICCEPM2024)_, Sap
 
 ### Patent (Registered) \| 특허 등록
 
->1. <span style="font-size: 15px; color: gray">Choi, H, Chi, S., and **Moon, S.** (2021. 10. 14.) "Construction Process Navigation Providing Method(건설 공정 네비게이션 제공 방법)." (South Korea, Publication No. 10-2315373)</span>  
+>1. <span style="font-size: 15px; color: gray">Choi, H, Chi, S., and **Moon, S.** (2021. 10. 14.) "건설 공정 네비게이션 제공 방법(Construction Process Navigation Providing Method)." (South Korea, Publication No. 10-2315373)</span>  
 
 <br/>
 
@@ -144,13 +144,13 @@ Conference on Construction Engineering and Project Management (ICCEPM2024)_, Sap
 
 >5. Chi, S., **Moon, S.**, Lee, G., Won, D., Hwang, J., and Kim, J. (2023.11.24.) "건설현장의 환경정보 수집 장치." (South Korea, Application Number: 10-2023-0165639)  
 >
->4. Chi, S., **Moon, S.**, and Lee, G. (2022.05.17.) "Method and Device for Automatic Review Construction Contract Documents using Semantic Text Analysis(의미기반 텍스트 분석을 이용한 건설공사계약서 자동검토 방법 및 장치)." (South Korea, Application Number: 10-2022-0060293)  
+>4. Chi, S., **Moon, S.**, and Lee, G. (2022.05.17.) "의미기반 텍스트 분석을 이용한 건설공사계약서 자동검토 방법 및 장치(Method and Device for Automatic Review Construction Contract Documents using Semantic Text Analysis)." (South Korea, Application Number: 10-2022-0060293)  
 >
->3. Chi, S., Chung, S., and **Moon, S.** (2022.04.06.) "Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning(교량점검보고서의 손상 메커니즘 추출 장치 및 방법)." (South Korea, Application Number: 10-2022-0042645)  
+>3. Chi, S., Chung, S., and **Moon, S.** (2022.04.06.) "교량점검보고서의 손상 메커니즘 추출 장치 및 방법(Method for Extraction of Bridge Damage Mechanism from Inspection Reports Using Bi-directional Recurrent Neural Network and Active Learning)." (South Korea, Application Number: 10-2022-0042645)  
 >
->2. Chi, S., **Moon, S.**, and Lee, G. (2021.07.28.) "Techniques for Keyword Extraction on Construction Contract Document using Deep Learning-based Named Entity Recognition(딥러닝 기반 개체명 인식 기법을 활용한 건설공사 계약사항 키워드 추출 기술)." (South Korea, Application Number: 10-2021-0099244)  
+>2. Chi, S., **Moon, S.**, and Lee, G. (2021.07.28.) "딥러닝 기반 개체명 인식 기법을 활용한 건설공사 계약사항 키워드 추출 기술(Techniques for Keyword Extraction on Construction Contract Document using Deep Learning-based Named Entity Recognition)." (South Korea, Application Number: 10-2021-0099244)  
 >
->1. Chi, S., Lee, G., and **Moon, S.** (2021.07.21.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review(심층 의미 유사성 모델 기반 건설공사 계약서 조항 출처 식별 기술)." (South Korea, Application Number: 10-2021-0095986)  
+>1. Chi, S., Lee, G., and **Moon, S.** (2021.07.21.) "심층 의미 유사성 모델 기반 건설공사 계약서 조항 출처 식별 기술(Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review)." (South Korea, Application Number: 10-2021-0095986)  
 
 <br/>
 
@@ -158,20 +158,20 @@ Conference on Construction Engineering and Project Management (ICCEPM2024)_, Sap
 
 ### Software \| 소프트웨어 등록
 
->9. Lee, S., **Moon, S.**, Hong, J., Lee, G., and Park, W. (2024) "건설공사 안전사고 예측모델의 자동구축 프로그램(Program on Automated Development of Construction Safety Accident Prediction Model)." (South Korea, Registration Number: C-2024-005752)  
+>9. Lee, S., **Moon, S.**, Hong, J., Lee, G., and Park, W. (2024.02.08.) "건설공사 안전사고 예측모델의 자동구축 프로그램(Program on Automated Development of Construction Safety Accident Prediction Model)." (South Korea, Registration Number: C-2024-005752)  
 >
 >8. **Moon, S.**, Seo, Y., and Seong, H. (2023.12.14.) "건설현장 센서 배치 최적화 알고리즘(Program for Sensor Deployment Optimization in Construction Site)." (South Korea, Registration Number: C-2023-060178)  
 >
->7. Chi, S., Jang, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.09.05.) "Deep Learning-based Construction Site Noise Classification Program." (South Korea, Registration Number: C-2022-035160)  
+>7. Chi, S., Jang, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.09.05.) "딥러닝 기반 건설 현장 소음 분류 프로그램(Deep Learning-based Construction Site Noise Classification Program)." (South Korea, Registration Number: C-2022-035160)  
 >
->6. Chi, S., Lim, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.03.21.) "3D Mapping Software for Environmental Information on Construction Site." (South Korea, Registration Number: C-2022-013870)  
+>6. Chi, S., Lim, S., **Moon, S.**, Won, D., Lee, G., and Hwang, J. (2022.03.21.) "건설현장 환경정보 3차원 맵핑 소프트웨어(3D Mapping Software for Environmental Information on Construction Site)." (South Korea, Registration Number: C-2022-013870)  
 >
->5. Chi, S., **Moon, S.**, and Lee, G. (2022.03.21.) "Deep Learning-based Construction Contract Review Program." (South Korea, Registration Number: C-2022-013869)  
+>5. Chi, S., **Moon, S.**, and Lee, G. (2022.03.21.) "딥러닝 기반 건설공사 계약서 자동 검토 프로그램(Deep Learning-based Construction Contract Review Program)." (South Korea, Registration Number: C-2022-013869)  
 >
->4. Chi, S., **Moon, S.**, and Lee, G. (2021.04.28.) "Requirement Keyword Detection Program for Automated Review of Construction Specification." (South Korea, Registration Number: C-2021-018339)  
+>4. Chi, S., **Moon, S.**, and Lee, G. (2021.04.28.) "건설공사 계약서 자동 검토를 위한 키워드 인식 프로그램(Requirement Keyword Detection Program for Automated Review of Construction Specification)." (South Korea, Registration Number: C-2021-018339)  
 >
->3. Chi, S., Lee, G., and **Moon, S.** (2021.04.27.) "Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review." (South Korea, Registration Number: C-2021-018235)  
+>3. Chi, S., Lee, G., and **Moon, S.** (2021.04.27.) "심층 의미 유사성 모델 기반 건설공사 계약서 조항의 자동 출처 검색 소프트웨어(Automatic Reference Retrieval Software Based on Deep Structured Semantic Model for Construction Contract Review)." (South Korea, Registration Number: C-2021-018235)  
 >
->2. Chi, S., Kim, T., and **Moon, S.** (2018.05.15.) "Semantic Search System for Risk Factor of Construction Accident" (South Korea, Registration Number: C-2018-012345)  
+>2. Chi, S., Kim, T., and **Moon, S.** (2018.05.15.) "의미기반 건설 안전사고 위험요소 검색 시스템(Semantic Search System for Risk Factor of Construction Accident)." (South Korea, Registration Number: C-2018-012345)  
 >
->1. Shin, S., Lee, H., Koh, H., Lee, B., Chi, S., Cho, J., Lee, S., Lee, B., You, S., **Moon, S.**, and Mok, S. (2017.01.15.) "Information Infrastructure of Global Construction Markets." (South Korea, Registration Number: C-2017-001737)  
+>1. Shin, S., Lee, H., Koh, H., Lee, B., Chi, S., Cho, J., Lee, S., Lee, B., You, S., **Moon, S.**, and Mok, S. (2017.01.15.) "글로벌 건설시장 정보 인프라(Information Infrastructure of Global Construction Markets)." (South Korea, Registration Number: C-2017-001737)  

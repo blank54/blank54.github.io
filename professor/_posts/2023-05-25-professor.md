@@ -162,12 +162,11 @@ author: Seonghyeon Moon
 
 ### Professional Certificate and Training \| 자격증 및 교육 수료
 
->자격증: **Advanced Data Analytics Semi-Professional(데이터분석 준전문가)** (2023.06.16.) Korea Data Agency, South Korea  
->
->자격증: **Industrial Engineer Information Processing(정보처리산업기사)** (2013) Human Resources Development Service of Korea  
->
->교육 수료: **Scan to BIM** (2022) AI Research Institute, Seoul National University, Seoul, South Korea  
->
->교육 수료: **Project Feasibility Study and Cost Estimation** (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
->
->교육 수료: **Building Information Modeling** (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
+>**Certificate \| 자격증**
+>"Advanced Data Analytics Semi-Professional(데이터분석 준전문가)." (2023.06.16.) Korea Data Agency, South Korea  
+>"Industrial Engineer Information Processing(정보처리산업기사)." (2013) Human Resources Development Service of Korea  
+
+>**Education/Trainig \| 교육 수료**
+>"Scan to BIM." (2022) AI Research Institute, Seoul National University, Seoul, South Korea  
+>"Project Feasibility Study and Cost Estimation." (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
+>"Building Information Modeling." (2020) Smart Digital Engineering Education and Training for Lead Engineer, Seoul National University, Seoul, South Korea  
