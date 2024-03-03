@@ -7,7 +7,7 @@ author: Seonghyeon Moon
 
 # 문성현 (Seonghyeon Moon)
 
-<img src="{{ site.baseurl }}/img/people/SeonghyeonMoon_20240303.jpg" style="width:300px" alt="">
+<img src="{{ site.baseurl }}/img/people/SeonghyeonMoon_20240303.jpg" style="width:450px" alt="">
 
 >Assistant Professor(조교수) \| Ph.D.  
 >Department of Industrial and Systems Engineering \| Gyeongsang National University  
