@@ -112,8 +112,12 @@ author: Seonghyeon Moon
 >"스마트건설을 위한 건설현장 디지털트윈." IE매거진, 2023 겨울호(2023.12.), ISSN 2234-0300.  
 >"ISARC 2018 in Berlin 참관기." 한국건설관리학회지, 제19권, 제5호(2018.10.), 12297534.  
 
+>**University Services \| 학내 활동**  
+>2024 - _Present_ **전공주임**, 공과대학 빅데이터융합전공  
+>2024 - 2024 **전공주임**, 산업시스템공학부 산업시스템공학전공  
+
 >**Professional Services \| 대외 활동**  
->2023 - _Present_ **국토안전자문위원회 위원**, 국토안전관리원  
+>2023 - _Present_ **Review Panel(위원)**, Korea Authority of Land and Infrastructure Safety(국토안전자문위원회), 국토안전관리원  
 
 >**Academic Society \| 학회 활동**  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Communications and Information Sciences (한국통신학회)  
@@ -148,6 +152,7 @@ author: Seonghyeon Moon
 ### Thesis Committee \| 인력 양성
 
 >**학위논문심사(박사)** \| **Dissertation Committee(Ph.D.)**  
+<!-- >2024.08. 정세환(Sehwan Chung) 서울대학교 건설환경공학부   -->
 >2023.08. 이기택(Gitaek Lee) 서울대학교 건설환경공학부  
 
 >**학위논문심사(석사)** \| **Dissertation Committee(M.S.)**  
