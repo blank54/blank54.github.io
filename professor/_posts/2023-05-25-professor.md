@@ -117,7 +117,8 @@ author: Seonghyeon Moon
 >2024 - 2024 **전공주임**, 산업시스템공학부 산업시스템공학전공  
 
 >**Professional Services \| 대외 활동**  
->2023 - _Present_ **Review Panel(위원)**, Korea Authority of Land and Infrastructure Safety(국토안전자문위원회), 국토안전관리원  
+>2024.03 - 2025.03 **Project Review Panel(기술심사평가위원)**, Korea Land and Housing Corporation(한국토지주택공사)
+>2023 - _Present_ **Review Panel(위원)**, 국토안전자문위원회, Korea Authority of Land and Infrastructure Safety(국토안전관리원)  
 
 >**Academic Society \| 학회 활동**  
 >2023 - _Present_&nbsp;&nbsp;&nbsp;&nbsp;**Member(정회원)**, Korean Institute of Communications and Information Sciences (한국통신학회)  
